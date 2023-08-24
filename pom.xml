@@ -237,7 +237,7 @@
 
         <allureJunitVersion>2.8.1</allureJunitVersion>
         <multithreadedtcVersion>1.01</multithreadedtcVersion>
-        <tikaVersion>1.24.1</tikaVersion>
+        <tikaVersion>1.28.3</tikaVersion>
     </properties>
 
     <dependencies>
